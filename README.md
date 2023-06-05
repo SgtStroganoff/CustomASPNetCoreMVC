@@ -1,6 +1,6 @@
 # CustomASPNetCoreMVC
 
-Above is an example of ASP.NET Core MVC Custom Identity and User Roles with Custom Database Context
+Above is an example of ASP.NET Core 7.0 MVC Custom Identity and User Roles with Custom Database Context
 
 Sections :
 - Create Scaffold Identity item
